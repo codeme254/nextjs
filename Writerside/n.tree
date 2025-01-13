@@ -9,4 +9,5 @@
     <toc-element topic="starter.md"/>
     <toc-element topic="Getting-Started-With-Nest-js.md"/>
     <toc-element topic="React-Server-Components.md"/>
+    <toc-element topic="Routing.md"/>
 </instance-profile>

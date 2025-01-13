@@ -10,4 +10,5 @@
     <toc-element topic="Getting-Started-With-Nest-js.md"/>
     <toc-element topic="React-Server-Components.md"/>
     <toc-element topic="Routing.md"/>
+    <toc-element topic="layouts.md"/>
 </instance-profile>

@@ -11,4 +11,5 @@
     <toc-element topic="React-Server-Components.md"/>
     <toc-element topic="Routing.md"/>
     <toc-element topic="layouts.md"/>
+    <toc-element topic="Routing-Metadata.md"/>
 </instance-profile>

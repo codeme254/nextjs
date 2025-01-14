@@ -13,4 +13,5 @@
     <toc-element topic="layouts.md"/>
     <toc-element topic="Routing-Metadata.md"/>
     <toc-element topic="Navigation.md"/>
+    <toc-element topic="Loading-UI.md"/>
 </instance-profile>

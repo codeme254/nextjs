@@ -12,4 +12,5 @@
     <toc-element topic="Routing.md"/>
     <toc-element topic="layouts.md"/>
     <toc-element topic="Routing-Metadata.md"/>
+    <toc-element topic="Navigation.md"/>
 </instance-profile>

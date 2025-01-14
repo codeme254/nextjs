@@ -14,4 +14,5 @@
     <toc-element topic="Routing-Metadata.md"/>
     <toc-element topic="Navigation.md"/>
     <toc-element topic="Loading-UI.md"/>
+    <toc-element topic="Error-handling.md"/>
 </instance-profile>

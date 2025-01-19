@@ -18,4 +18,9 @@
     <toc-element topic="Route-handlers.md">
     </toc-element>
     <toc-element topic="Rendering.md"/>
+    <toc-element topic="Server-Rendering-Strategies.md">
+        <toc-element topic="Static-Rendering.md"/>
+        <toc-element topic="Dynamic-Rendering.md"/>
+        <toc-element topic="Streaming.md"/>
+    </toc-element>
 </instance-profile>

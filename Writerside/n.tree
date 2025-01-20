@@ -28,5 +28,6 @@
         <toc-element topic="Third-Party-Packages.md"/>
         <toc-element topic="Context-Providers.md"/>
         <toc-element topic="Client-Only-Code.md"/>
+        <toc-element topic="Client-Component-Placement.md"/>
     </toc-element>
 </instance-profile>

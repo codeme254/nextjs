@@ -23,4 +23,7 @@
         <toc-element topic="Dynamic-Rendering.md"/>
         <toc-element topic="Streaming.md"/>
     </toc-element>
+    <toc-element topic="Server-and-Client-Composition-patterns.md">
+        <toc-element topic="Server-Only-Code.md"/>
+    </toc-element>
 </instance-profile>

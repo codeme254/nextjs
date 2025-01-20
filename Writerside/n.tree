@@ -25,5 +25,6 @@
     </toc-element>
     <toc-element topic="Server-and-Client-Composition-patterns.md">
         <toc-element topic="Server-Only-Code.md"/>
+        <toc-element topic="Third-Party-Packages.md"/>
     </toc-element>
 </instance-profile>

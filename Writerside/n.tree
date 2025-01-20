@@ -27,5 +27,6 @@
         <toc-element topic="Server-Only-Code.md"/>
         <toc-element topic="Third-Party-Packages.md"/>
         <toc-element topic="Context-Providers.md"/>
+        <toc-element topic="Client-Only-Code.md"/>
     </toc-element>
 </instance-profile>
